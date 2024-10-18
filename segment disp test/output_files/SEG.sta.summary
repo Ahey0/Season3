@@ -1,0 +1,117 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -36.759
+TNS   : -1161.798
+
+Type  : Slow 1100mV 85C Model Setup 'clk'
+Slack : -2.680
+TNS   : -49.124
+
+Type  : Slow 1100mV 85C Model Hold 'clk'
+Slack : -1.702
+TNS   : -1.702
+
+Type  : Slow 1100mV 85C Model Hold 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : 4.216
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.519
+TNS   : -12.659
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -0.501
+TNS   : -29.106
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'HOL'
+Slack : -0.196
+TNS   : -2.088
+
+Type  : Slow 1100mV 0C Model Setup 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -37.960
+TNS   : -1199.511
+
+Type  : Slow 1100mV 0C Model Setup 'clk'
+Slack : -2.888
+TNS   : -49.159
+
+Type  : Slow 1100mV 0C Model Hold 'clk'
+Slack : -1.671
+TNS   : -1.671
+
+Type  : Slow 1100mV 0C Model Hold 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : 4.161
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.527
+TNS   : -13.885
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -0.510
+TNS   : -29.561
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'HOL'
+Slack : -0.260
+TNS   : -3.608
+
+Type  : Fast 1100mV 85C Model Setup 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -20.070
+TNS   : -642.861
+
+Type  : Fast 1100mV 85C Model Setup 'clk'
+Slack : -1.312
+TNS   : -17.236
+
+Type  : Fast 1100mV 85C Model Hold 'clk'
+Slack : -0.948
+TNS   : -0.948
+
+Type  : Fast 1100mV 85C Model Hold 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : 2.374
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clk'
+Slack : -0.475
+TNS   : -2.517
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'HOL'
+Slack : -0.443
+TNS   : -10.810
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -0.215
+TNS   : -5.831
+
+Type  : Fast 1100mV 0C Model Setup 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -19.161
+TNS   : -613.534
+
+Type  : Fast 1100mV 0C Model Setup 'clk'
+Slack : -1.254
+TNS   : -15.047
+
+Type  : Fast 1100mV 0C Model Hold 'clk'
+Slack : -0.984
+TNS   : -0.984
+
+Type  : Fast 1100mV 0C Model Hold 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : 2.228
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clk'
+Slack : -0.465
+TNS   : -2.545
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'HOL'
+Slack : -0.425
+TNS   : -10.820
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clock_controll_50MHZ_T_50HZ:QW2|clkout_s'
+Slack : -0.176
+TNS   : -4.811
+
+------------------------------------------------------------
